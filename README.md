@@ -1,2 +1,4 @@
 # Szachy
 Test
+
+first commit
